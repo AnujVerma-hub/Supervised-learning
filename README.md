@@ -1,7 +1,15 @@
 # Supervised-learning
 supervised learning using various supervised models and algorithms with different datasets
 
+## Algorithms:
+- I've used various algorithms including Support vector classifier,Naivebayes and Decision tree algorithms
 
+## Datasets:
+- I've used the famous dataset named Iris dataset and also used make moonds dataset
+
+
+
+## Graph plots
 
 The decision Tree plot
 
